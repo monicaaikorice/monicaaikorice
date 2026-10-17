@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**monicaaikorice/monicaaikorice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Space Loaf After Dark, with a sleeping circuit kitty on a crescent moon](./assets/space-loaf-after-dark-header.png)
 
-Here are some ideas to get you started:
+### ✨ UI/UX Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build thoughtful, accessible experiences
+with code, curiosity, and a little cosmic chaos.
+
+### 🪐 Currently Orbiting
+
+**Ally** · Accessibility-first React components
+
+**Familiar** · Cozy project management
+
+**Space Loaf Labs** · Creative experiments
+
+**[maiko.dev](https://maiko.dev)** · My portfolio
+
+![Cosmic Toolbox featuring TypeScript, React, Next.js, Vue, Node.js, PostgreSQL, and CSS](./assets/cosmic-toolbox.png)
+
+
+
+
