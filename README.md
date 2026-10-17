@@ -1,4 +1,3 @@
-
 ![Space Loaf After Dark, with a sleeping circuit kitty on a crescent moon](./assets/space-loaf-after-dark-header.png)
 
 ### ✨ UI/UX Engineer
