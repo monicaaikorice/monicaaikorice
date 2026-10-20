@@ -1,6 +1,6 @@
 ![Space Loaf After Dark, with a sleeping circuit kitty on a crescent moon](./assets/space-loaf-after-dark-header.png)
 
-### ✨ UI/UX Engineer
+### ✨ Software Engineer with a focus in accessibility-compliant front-end (UI/UX) development
 
 I build thoughtful, accessible experiences
 with code, curiosity, and a little cosmic chaos.
